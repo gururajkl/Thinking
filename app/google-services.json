@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1094481727299",
+    "project_id": "thinking-a1589",
+    "storage_bucket": "thinking-a1589.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1094481727299:android:73dc24122f4bf7e82ce9f6",
+        "android_client_info": {
+          "package_name": "com.example.thinking"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1094481727299-l3uv61ri0n59gop6m5b89ov39627ovrm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.thinking",
+            "certificate_hash": "3719fa49f8e54e0ede04667c71c9055467242b35"
+          }
+        },
+        {
+          "client_id": "1094481727299-4fh2f9n0rpolnfr35fa4c6trqnfb4id1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcxC1WkEo6ux1FpsHHG2dy-2QYE6lik7s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1094481727299-4fh2f9n0rpolnfr35fa4c6trqnfb4id1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
